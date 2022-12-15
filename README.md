@@ -35,11 +35,21 @@
 
 ![Test Image](/Resources/Suspension_Coil_test.png)
 
+
+
 ![Test Image](/Resources/lot1_test.png)
+
 
 ![Test Image](/Resources/lot2_test.png)
 
+
 ![Test Image](/Resources/lot3_test.png)
+
+
+
+![Test Image](/Resources/lot3_table.png)
+
+
 
 create a subheading ## T-Tests on Suspension Coils, then briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
 

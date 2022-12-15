@@ -1,7 +1,8 @@
 # MechaCar_Statistical_Analysis
+
 ## Part 1: Linear Regression to Predict MPG
 
-Write a short summary using a screenshot of the output from the linear regression, and address the following questions:
+![Test Image](/Resources/linear_regression.png)
 
 1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
